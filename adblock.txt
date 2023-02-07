@@ -1,0 +1,28 @@
+! allow
+@@||google.com
+@@||cloudflare.com
+
+! block
+||facebook.com
+||facebook.net
+||instagram.com
+||tiktok.com
+||twitch.tv
+||twitter.com
+||chatango.com
+||dailymotion.com
+||disqus.com
+||discord.com
+
+! font
+||fonts.googleapis.com
+||fonts.gstatic.com
+||fonts.adobe.com
+||fonts.bunny.net
+||fonts.cdnfonts.com
+||fonts.designs.ai
+||api.fonts.coollabs.io
+||cdn.fonts.net
+||cdn.myfontastic.com
+||glyph.medium.com
+||use.typekit.net
